@@ -1,0 +1,4 @@
+com\kgfsl\testclasses\ArtrailTestLinks.class
+com\kgfsl\maven\runner\ArtrialSuite.class
+com\kgfsl\testclasses\AutoAllocationScreen.class
+com\kgfsl\testclasses\ArtrailTestLinks$RequestType.class
